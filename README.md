@@ -1,12 +1,13 @@
-# Root-segmentation_subArctic-Grassland-RS_SAG-
-Code for automatic root segmentation of images from BARTZ system, from subarctic grasslands
+# Root Segmentation in SubArctic Grasslands: RS_SAG
+Code for automatic root segmentation of images from BARTZ system, from subarctic grasslands.
+The repository also includes the Label tool, which was used for labeling the training dataset.
 
 ### Citation
 
 ```bibtex
 @misc{Baykalov2024scripts,
   Author = {Pavel Baykalov},
-  Title = {Root-segmentation_subArctic-Grassland-RS_SAG-},
+  Title = {Root Segmentation in SubArctic Grasslands: RS_SAG},
   Year = {2024},
   Publisher = {GitHub},
   Journal = {GitHub repository},
